@@ -1,51 +1,30 @@
-<h1 align="center">Hi <span style="color:#00FFAA">Buddy</span> 👋</h1>
-<h3 align="center">It's Me <span style="color:#00FFAA">CRYPTODAI</span></h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=480&lines=From+Airdrop+To+Automation+Dev" alt="Typing SVG" />
-</p>
+<h1 align="center">DalleDai</h1>
+<p align="center">Web3 automation</p>
 
 ---
 
-### 🧙‍♂️ About Me
+### About
 
-- 🧑‍💻 Alias: Mahesh aka **CryptoDai**
-- 🎯 Mission: Automate Web3 tasks for airdrop grinders — no BS, no paywalls.
-- 🛠️ Currently Building: Auto Bots for Merak, Pharos, Interlink, and more
-- 💯 **Promise:** I never charge, and I never will But Need Support.
-- 📬 Reach me:[Telegram](https://t.me/planearn001) | [Gmail](mailto:cryptodai3@gmail.com)
+- Mahesh, going by **DalleDai** on GitHub
+- I build and maintain open-source automation bots for Web3 testnets and airdrop campaigns
 
----
+### What I build and maintain
 
-### 📫 Contact
-- **Alias**: @cryptodai
-- **Domain**: WEB3
-- **Email**: cryptodai3@gmail.com
-- **Telegram**: 
-  [Personal](https://t.me/planearn001) | 
-  [Dev Channel](https://t.me/yetidao) | 
-  [Channel](https://t.me/cryptodai3)
-- **Twitter**: [@cryptodai3](https://x.com/cryptodai3)
+| Area | Examples |
+|------|----------|
+| Testnet and airdrop bots | [Pharos](https://github.com/DalleDai/Pharos-Automation-Bot), [Kite AI](https://github.com/DalleDai/Kite-Ai-Automation-Bot), [Helios](https://github.com/DalleDai/Helios-Testnet-BOT), [LayerEdge](https://github.com/DalleDai/LayerEdge-Phase-3-Auto-Bot), [Sixpence](https://github.com/DalleDai/Sixpence-Automation-Bot), [3DOS](https://github.com/DalleDai/3DOS-Automation-BOT) |
+| Setup and safety guides | [Bot-Environment-Setup](https://github.com/DalleDai/Bot-Environment-Setup), [Bot-Safety-Awareness](https://github.com/DalleDai/Bot-Safety-Awareness) |
 
----
+### Security note
 
-### 📈 GitHub Stats
+These bots run on your own machine and need your wallet keys in a local config file. Keep that file private and never post it, commit it, or send it to anyone, including me. Use a separate wallet with only what you can afford to lose, and review what a bot does before you run it. See [Bot-Safety-Awareness](https://github.com/DalleDai/Bot-Safety-Awareness).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DalleDai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalleDai&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### Contact
 
----
-### 🚀 Featured Projects
-
-- [**Airdrop**](https://t.me/cryptodai3) – Automating
-- [**Tools**](https://t.me/yetidao) – A growing set of useful tools, scripts, and automation magic.
-
----
+- Telegram: [Personal](https://t.me/planearn001) · [Dev channel](https://t.me/yetidao) · [Channel](https://t.me/cryptodai3)
+- X: [@cryptodai3](https://x.com/cryptodai3)
+- Email: cryptodai3@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DalleDai&color=blue" alt="Profile views" />
 </p>
-
-> — CRYPTODAI (Mahesh)
