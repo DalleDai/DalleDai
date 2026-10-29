@@ -31,9 +31,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptodai3&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DalleDai&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptodai3&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalleDai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cryptodai3&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DalleDai&color=blue" alt="Profile views" />
 </p>
 
 > — CRYPTODAI (Mahesh)
