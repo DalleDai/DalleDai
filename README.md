@@ -21,8 +21,8 @@ These bots run on your own machine and need your wallet keys in a local config f
 
 ### Contact
 
-- Telegram: [Personal](https://t.me/planearn001) · [Dev channel](https://t.me/yetidao) · [Channel](https://t.me/cryptodai3)
-- X: [@cryptodai3](https://x.com/cryptodai3)
+- Telegram: [Personal](https://t.me/@dalle_dai) · [Dev channel](https://t.me/yetidao) · [Channel](https://t.me/DalleDai)
+- X: [@Dalle_Dai](https://x.com/Dalle_Dai)
 - Email: cryptodai3@gmail.com
 
 <p align="center">
